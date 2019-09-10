@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Java** is a great language to learn how to code. *It is* very important to stay **focused** to master the __Basics__.
